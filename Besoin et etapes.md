@@ -1,7 +1,7 @@
 De quoi on a besoin :
 
--Un navegateur web(Google , ethernet..)
--Un editeur de Code (Code visual , Spyder ..)
+-Un navegateur web(Google , ethernet..)  
+-Un editeur de Code (Code visual , Spyder ..)  
 -Les images (Soit des imagines qui sont dans cet repertoire , soit des images que vous pouvez recuperer d ailleur
 
 __________________________________________________________________________________________________________________________________________________________________
