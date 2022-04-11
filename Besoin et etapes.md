@@ -3,7 +3,7 @@
 - Un editeur de Code (Code visual , Spyder ..)
 - Les images (Soit des imagines qui sont dans cet repertoire, soit des images que vous pouvez recuperer d'ailleur
 
-__________________________________________________________________________________________________________________________________________________________________
+
 
 ## On doit utiliser :
 -HTML
@@ -11,7 +11,7 @@ ________________________________________________________________________________
 -FONCTIONS
 -LIST 
 
-__________________________________________________________________________________________________________________________________________________________________
+
 
 ## Etapes :
 - Apporter les images dans ton editeur de code
