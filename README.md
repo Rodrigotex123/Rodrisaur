@@ -1,4 +1,4 @@
-# Rodrisaur
+### Rodrisaur
 Ceci est une imitation du jeu Chrome Dino , Le jeu du dinosaure sautant hors ligne . 
 Le jeu se compose d'un SIMPLE dinosaure qui court à l'infini et qui doit sauter par-dessus des cactus.
 
@@ -17,10 +17,10 @@ _________________________________________________________
 
 
 ## On doit utiliser :
--HTML
--CLASS
--FONCTIONS
--LIST 
+- HTML
+- CLASS
+- FONCTIONS
+- LIST 
 
 
 
