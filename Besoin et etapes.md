@@ -1,11 +1,11 @@
-De quoi on a besoin :
+## De quoi on a besoin :
 - Un navegateur web(Google , ethernet..)
 - Un editeur de Code (Code visual , Spyder ..)
 - Les images (Soit des imagines qui sont dans cet repertoire, soit des images que vous pouvez recuperer d'ailleur
 
 __________________________________________________________________________________________________________________________________________________________________
 
-On doir utiliser :
+## On doit utiliser :
 -HTML
 -CLASS
 -FONCTIONS
@@ -13,7 +13,7 @@ On doir utiliser :
 
 __________________________________________________________________________________________________________________________________________________________________
 
-Etapes :
+## Etapes :
 - Apporter les images dans ton editeur de code
 - Modifier la taille et le style du dinosaur 
 - Deplacer l image de fond
