@@ -26,13 +26,13 @@ _________________________________________________________
 
 ## Etapes :
 - Apporter les images dans ton editeur de code
-- Modifier la taille et le style du dinosaur 
-- Deplacer l image de fond
-- Deplacer les objets (obstacle : captus )
+- Modifier la taille et le style du dinosaure
+- Deplacer l'image de fond
+- Deplacer les objets (obstacle : captus)
 - Faire que le Dino "bouge"
 - Faire sauter le dino
 - Le score
-- augmenter la vitesse quand on depasse k captus 
+- Augmenter la vitesse quand on depasse k captus 
 - Perdre si le Dino touche un des captus
-- Message game over
+- Message Game Over
 
