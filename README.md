@@ -24,7 +24,7 @@ _________________________________________________________
 
 
 
-## Etapes :
+## Etapes (minimum):
 - Apporter les images dans ton editeur de code
 - Modifier la taille et le style du dinosaure
 - Deplacer l'image de fond
