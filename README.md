@@ -1,4 +1,4 @@
-#Rodrisaur
+## Rodrisaur
 Ceci est une imitation du jeu Chrome Dino, Le jeu du dinosaure sautant hors ligne . 
 Le jeu se compose d'un SIMPLE dinosaure qui court à l'infini et qui doit sauter par-dessus des cactus.
 
@@ -32,7 +32,17 @@ _________________________________________________________
 - Faire que le Dino "bouge"
 - Faire sauter le dino
 - Le score
-- Augmenter la vitesse quand on depasse k captus 
+- Augmenter la vitesse quand on depasse k captus
 - Perdre si le Dino touche un des captus
 - Message Game Over
 
+Prototipage:
+
+'''
+class Dino:
+  def __init__():
+  
+
+
+'''
+## Journal
