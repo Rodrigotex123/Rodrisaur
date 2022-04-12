@@ -43,6 +43,15 @@ Problemes ??? :
 
 Prototipage:
 
-class container :
+classe container :
 
-- fd
+- Sol
+- Dino
+- Score
+
+-@keyframes animerrodrisaur
+utiliser : steps(2)
+
+-fonctions (faire que les images bougent )
+
+-variables (position du sol , la vitesse des objets)
