@@ -23,8 +23,11 @@ _________________________________________________________
 - LIST 
 
 
+## Minimum Viable Product 🧠 :
+Le Rodrisaur doit pouvoir sauter les obstacles(captus) et grace aux mouvements des images , faire croire au joueur que le sol est infinie .
+Si le Rodrisaur touche les captus  alors il perd et il faudra recommence. 
 
-## Etapes (minimum):
+Problemes :
 - Apporter les images dans ton editeur de code
 - Modifier la taille et le style du dinosaure
 - Deplacer l'image de fond
@@ -39,10 +42,4 @@ _________________________________________________________
 Prototipage:
 
 '''
-class Dino:
-  def __init__():
-  
 
-
-'''
-## Journal
