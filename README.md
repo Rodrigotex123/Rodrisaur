@@ -29,7 +29,8 @@ réellement.
 Si le Rodrisaur touche les captus  alors il perd et il faudra recommence .
 
 
-Problemes ??? :
+## Problemes ??? :
+
 - Apporter les images dans ton editeur de code
 - Modifier la taille et le style du dinosaure
 - Deplacer l'image de fond
@@ -40,8 +41,8 @@ Problemes ??? :
 - Augmenter la vitesse quand on depasse k captus
 - Perdre si le Dino touche un des captus
 - Message Game Over
-
-Prototipage:
+- 
+## Prototipage:
 
 classe container :
 
